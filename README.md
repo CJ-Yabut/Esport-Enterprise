@@ -2,40 +2,6 @@
 
 A multi-layer enterprise network designed and simulated in Cisco Packet Tracer for an e-sports organization[cite: 4]. The network features departmental segmentation, role-based Access Control Lists (ACLs), NAT Overload (PAT) for internet access, a dedicated DMZ for public-facing servers, and a secure GRE over IPsec VPN tunnel for remote site connectivity[cite: 4].
 
----
-
-## 📌 Project Overview
-
-This case study simulates an enterprise-grade e-sports infrastructure split across internal departments, a public DMZ, an Internet Service Provider (ISP) network, and a remote Headquarters (HQ)[cite: 4].
-
-* **Course:** CPE 314 - Computer Networks 3[cite: 4]
-* **Section:** CPE32S2[cite: 4]
-* **Instructor:** Dr. Jennalyn Mindoro[cite: 4]
-* **Date Submitted:** April 24, 2026[cite: 4]
-* **Simulation Tool:** Cisco Packet Tracer[cite: 4]
-
----
-
-## 🎯 Objectives
-
-1. **Subnetting & Segmentation:** Design a structured multi-layer network isolating internal departments and DMZ resources[cite: 4].
-2. **Traffic Control:** Configure Named Access Control Lists (ACLs) to enforce strict role-based communication[cite: 4].
-3. **Internet Access:** Implement NAT Overload (PAT) and Static NAT for internal devices and public-facing services[cite: 4, 10].
-4. **Site-to-Site Security:** Establish encrypted communication between the Main Router and Remote HQ using GRE over IPsec VPN[cite: 4].
-5. **Simulation & Validation:** Verify end-to-end connectivity, policy enforcement, and VPN tunnel stability[cite: 4].
-
----
-
-## 👥 Authors & Team Members
-
-* **Alfonso, Alexis Soley**[cite: 4]
-* **Boongaling, Zaki Lorenzo**[cite: 4]
-* **Salvador, Jake Allen**[cite: 4]
-* **Yabut, Christian Jiro**[cite: 4]
-* **Yao, Aaron Josh**[cite: 4]
-
----
-
 ## 📐 Subnetting & IP Addressing Scheme
 
 ### 1. Private Subnets
